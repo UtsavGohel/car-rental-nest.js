@@ -24,3 +24,20 @@ A comprehensive NestJS application for managing car rentals with user authentica
    git clone https://github.com/UtsavGohel/car-rental-nest.js
    cd car-rental-nest.js
    ```
+2. Install Dependencies
+    ```bash
+   npm install
+   ```
+3. Configure the Environment
+   ```bash
+   JWT_SECRET=your-jwt-secret
+   ```
+   
+
+5. Start the Application
+     ```bash
+   npm run start
+   ```
+   
+
+   
