@@ -11,9 +11,16 @@ A comprehensive NestJS application for managing car rentals with user authentica
 - Rental transaction history
 - Notifications via external API
 
+## Prerequisites
+
+- Node.js (v14 or later)
+- PostgreSQL (or another SQL database)
+- TypeORM (configured in the project)
+
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/UtsavGohel/car-rental-nest.js
+   cd car-rental-nest.js
    ```
